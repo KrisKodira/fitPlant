@@ -24,11 +24,8 @@ In fitPlant you will be able to log all your workouts and make a plant grow by w
 ### The MVP of fitPlant
 The Minimum Viable Product (MVP) of fitPlant should be a fitness tracking app where you can easily add your workouts, check them out and delete them from your device and you should also be able to add new musclegroups/categories and workouts that belong to these catgories. You should also be able to grow a plant with the amount of workouts you do based on your x days per week and your x hours per workout.
 
-## Installation of prototype for iOS
-- You will need a [Apple Developer account](https://developer.apple.com/) if you want to run this on your device
-- Clone this repository
-- Open the `fitPlant.xcodeproj` file inside the iOS-app/prototype folder with Xcode
-- You should be able to run the current master state without problems
+## Installation for iOS
+[COMING_SOON]
 
 ## Installation for Android
 [COMING_SOON]
