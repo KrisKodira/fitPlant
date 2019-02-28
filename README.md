@@ -34,6 +34,8 @@ The Minimum Viable Product (MVP) of fitPlant should be a fitness tracking app wh
 [COMING_SOON]
 
 ## Contribute
+- Please read our [Code of conduct](https://github.com/KrisKodira/fitPlant/blob/master/CODE_OF_CONDUCT.md) (If you happen to break rules you may be banned from contributing permanently)
+- Check the [Contributing Guidelines](https://github.com/KrisKodira/fitPlant/blob/master/CONTRIBUTING.md)
 - [Join the Discord](https://discord.gg/Ccq9PD9) to discuss changes and get help
 
 ## Open for creation
